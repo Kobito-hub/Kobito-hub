@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dumzo-Ajufo divine</h1>
 <h3 align="center">A game developer\mobile developer, A video editor/graphics designer, Learning sound design. All work in progress!</h3>
-<img align"right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
+{/*<img align"right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">*/}
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kobito-hub&label=Profile%20views&color=0e75b6&style=flat" alt="kobito-hub" /> </p>
 
